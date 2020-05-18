@@ -1,4 +1,4 @@
-# /usr/bin/env python3
+#! /usr/bin/env python3
 
 # Reverse shell generator based on examples pulled from:
 # https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
